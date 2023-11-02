@@ -7,9 +7,13 @@
 [![Facebook](https://img.shields.io/badge/-FlyByWireSimulations-e84393?label=&logo=facebook&logoColor=ffffff&color=6399AE&labelColor=00C2CB)](https://www.facebook.com/FlyByWireSimulations/)
 [![Instagram](https://img.shields.io/badge/-@FlyByWireSim-e84393?label=&logo=instagram&logoColor=ffffff&color=6399AE&labelColor=00C2CB)](https://instagram.com/flybywiresim)
 
-## FlyByWire SimBridge
+## Qbit SimBridge
 
-This repo contains the source code to SimBridge
+This repo contains the source code to SimBridge based on the [SimBridge](https://github.com/flybywiresim/simbridge) developed by the FBW team
+
+## Usage
+
+This SimBridge client expands above the already implemented functionalities developed by the FlyByWire team. As such SimBridge can be used for homemade flight simulators.
 
 ## Developing
 
